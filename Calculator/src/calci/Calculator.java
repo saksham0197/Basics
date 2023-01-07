@@ -1,4 +1,4 @@
-package calsi;
+package calci;
 import java.io.*;
 import java.lang.Math;
 import java.util.Scanner;
